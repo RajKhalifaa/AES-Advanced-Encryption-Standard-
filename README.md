@@ -1,1 +1,2 @@
 # AES-Advanced-Encryption-Standard-
+AES (Advanced Encryption Standard) is a symmetric encryption algorithm widely used for securely encrypting and decrypting data. It operates on fixed-size blocks of data with key sizes of 128, 192, or 256 bits. AES ensures strong confidentiality through its efficient encryption rounds and is employed in various applications like secure communication, data storage, and file encryption due to its robust security and computational efficiency.
